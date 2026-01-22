@@ -1,5 +1,7 @@
-
-@import "tailwind.css";
+@import "tailwindcss";
+@theme {
+  --breakpoint-sm: 36rem;
+}
 
 .inter-font{
   font-family: "Inter", sans-serif;
