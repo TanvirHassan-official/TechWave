@@ -2,6 +2,8 @@
 
 ![TechWave Banner](./assets/TechWave.jpg)
 
+[Click here for live link](https://tanvirhassan-official.github.io/TechWave/)
+
 ## 📖 Description
 **TechWave** is a responsive, modern frontend web interface designed to showcase technological solutions. Built purely with HTML and CSS, this project focuses on delivering a fast, accessible, and visually appealing user experience without the overhead of heavy JavaScript frameworks. 
 
